@@ -1,0 +1,168 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+
+/*header part start*/
+
+.header{
+	padding: 0;
+}
+.c_logo{
+	font-size: 20px;
+}
+.c_menu ul{
+	text-align: right;
+}
+.c_menu ul li{
+	margin-left: 0 !important;
+	margin-top: 12px;
+}
+.t_right{
+	text-align: right;
+}
+.s_box[data-bs-popper] {
+    width: 250px;
+    left: 43px;
+    margin-top: 10px;
+}
+.search_bar {
+	padding: 8px;
+}
+/*header part end*/
+/*banner part start*/
+.slider_text {
+	text-align: center;
+    margin: 50px 0px !important;
+}
+.slider_text h2{
+	font-size: 40px;
+	
+}
+.slider_text p {
+    margin: 25px 0;
+    color: #ffffff;
+    
+}
+.slider_text button {
+	margin-bottom: 20px;
+    width: 180px;
+    height: 45px;
+    font-size: 14px;
+    
+}
+.c_next, .c_prev{
+	font-size: 14px;
+}
+
+.cp_end{
+	left: -2%;
+}
+.cn_end{
+	left: 15%;
+}
+
+/*banner part end*/
+
+ }
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+
+/*header part start*/
+
+.header{
+	padding: 0;
+}
+.c_logo{
+	font-size: 25px;
+}
+.c_menu ul{
+	text-align: right;
+}
+.c_menu ul li{
+	margin-left: 0 !important;
+	margin-top: 12px;
+}
+.t_right{
+	text-align: right;
+}
+.s_box[data-bs-popper] {
+    width: 280px;
+    left: 265px;
+    margin-top: 8px;
+}
+.search_bar {
+	padding: 15px;
+}
+/*header part end*/
+
+/*banner part start*/
+.slider_text {
+    margin: 100px 0px !important;
+}
+.slider_text h2{
+	font-size: 48px;
+}
+.slider_text p {
+    margin: 35px 0;
+    color: #ffffff;
+}
+
+/*banner part end*/
+
+
+ }
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+
+/*header part start*/
+
+.header{
+	padding: 0;
+}
+.c_logo{
+	font-size: 26px;
+}
+.c_menu ul{
+	text-align: right;
+}
+.c_menu ul li{
+	margin-left: 0 !important;
+	margin-top: 12px;
+}
+.t_right{
+	text-align: right;
+}
+.s_box[data-bs-popper] {
+	left: 420px;
+	margin-top: 8px;
+}
+/*header part end*/
+
+/*banner part start*/
+.slider_text {
+    margin: 120px 0px !important;
+}
+
+/*banner part end*/
+
+ }
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+
+/*banner part start*/
+
+.slider_text h2{
+	font-size: 50px;
+}
+
+/*banner part end*/
+
+ }
+
+/*Extra large devices (Extra large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {  }
+
+/*Extra large devices (Extra Extra large desktops, 1400px and up)*/
+@media (min-width: 1400px) {  }
