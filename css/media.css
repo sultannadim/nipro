@@ -40,6 +40,7 @@
 .slider_text p {
     margin: 25px 0;
     color: #ffffff;
+    text-align: justify;
     
 }
 .slider_text button {
@@ -61,6 +62,160 @@
 }
 
 /*banner part end*/
+
+/*welcome part start*/
+.top_arrow{
+	margin-bottom: 20px;
+	height: 30px;
+}
+.wel_text {
+    margin: 20px 0px;
+}
+.wel_text p {
+	text-align: justify;
+    line-height: 28px;
+}
+.wel_head h1{
+	font-size: 26px;
+}
+/*welcome part end*/
+
+/*service part start*/
+.service {
+    padding: 50px 0px;
+}
+.ser_content{
+	margin-top: 50px;
+}
+.mt_top{
+	margin-top: 0px;
+} 
+/*service part end*/
+
+/*about part start*/
+.about_content {
+    padding-left: 0;
+    text-align: center;
+}
+.about_content p {
+    text-align: justify;
+}
+.about_content h1{
+	margin-bottom: 15px;
+	font-size: 26px;
+}
+.about_content a{
+	font-size: 14px;
+}
+.about_content button{
+	width: 180px;
+	height: 45px;
+}
+.about {
+    padding-top: 30px;
+    padding-bottom: 60px;
+}
+
+/*about part end*/
+
+/*gallery part start*/
+.gallery {
+    padding-bottom: 40px;
+}
+.g_mb {
+    margin-bottom: 25px;
+}
+.single_img {
+	margin: 0 auto;
+    margin-top: 20px;
+    width: 300px;
+}
+/*gallery part end*/
+
+/*choose part start*/
+.choose{
+	padding-bottom: 40px;
+}
+.cho_content {
+    text-align: center;
+}
+.cho_content p{
+	text-align: justify;
+}
+/*choose part end*/
+
+/*work part start*/
+.work{
+	padding-bottom: 40px;
+}
+.wor_content{
+	margin: 0 auto;
+	margin-top: 25px;
+}
+/*work part end*/
+
+/*price part start*/
+.price{
+	padding-bottom: 40px;
+}
+
+/*price part end*/
+
+/*template part start*/
+.temp_content{
+	text-align: center;
+}
+.temp_btn {
+	 margin-top: 20px;
+    text-align: center;  
+}
+/*template part end*/
+
+/*contact part start*/
+.contact{
+	padding-bottom: 40px;
+}
+.main_form {
+    margin-top: 40px;
+    padding: 0 20px;
+}
+.full_form{
+	margin-top: 50px;
+}
+/*contact part end*/
+
+/*footer part start*/
+/*footer top start*/
+.footer_top {
+    padding-bottom: 50px;
+}
+.ft_icon ul li {
+    margin-right: 10px !important;
+    width: 36px;
+    height: 42px;
+}
+.ft_icon ul li a {
+    font-size: 20px;
+    line-height: 40px;
+}
+/*footer top end*/
+/*footer bottom start*/
+.footer_bottom{
+	padding: 35px 0;
+}
+.ftb_text{
+	margin-bottom: 25px;
+	text-align: center;
+}
+.ftb_menu ul{
+	text-align: center ;
+}
+.ftb_menu ul li{
+	margin-right: 20px !important;
+}
+/*footer bottom end*/
+/*footer part end*/
+
 
  }
 
@@ -109,6 +264,177 @@
 
 /*banner part end*/
 
+/*welcome part start*/
+.top_arrow{
+	height: 40px;
+}
+.wel_text {
+    margin: 22px 0px;
+}
+.wel_text p {
+    line-height: 30px;
+}
+.wel_head h1{
+	font-size: 28px;
+}
+/*welcome part end*/
+
+/*service part start*/
+.service {
+    padding: 60px 0px;
+}
+.ser_content{
+	margin-top: 50px;
+}
+.mt_0{
+	margin-top: 0px;
+} 
+/*service part end*/
+
+/*about part start*/
+.about_content {
+    padding-left: 0;
+    text-align: center;
+}
+
+/*about part end*/
+
+/*gallery part start*/
+.single_img {
+    margin-top: 20px;
+    width: 250px;
+    
+}
+.gallery {
+    padding-bottom: 50px;
+    
+}
+.g_mb {
+    margin-bottom: 30px;
+}
+.g_menu li {
+    padding: 10px 8px;
+    font-size: 15px;
+}
+/*gallery part end*/
+
+/*choose part start*/
+.choose{
+	padding-bottom: 50px;
+}
+/*choose part end*/
+
+/*work part start*/
+.work{
+	padding-bottom: 50px;
+}
+.wor_content{
+	width: 255px;
+}
+.wor_text h2{
+	font-size: 18px;
+}
+.wor_text {
+    padding: 20px 0px 20px 30px;
+}
+
+/*work part end*/
+
+/*price part start*/
+.price{
+	padding-bottom: 50px;
+}
+.pri_btn{
+	width: 185px;
+}
+/*price part end*/
+
+/*template part start*/
+.buy_btn{
+	width: 155px;
+}
+.buy_btn a{
+	font-size: 14px;
+}
+.temp_content h2{
+	font-size: 17px;
+}
+/*template part end*/
+
+/*slider2 part start*/
+.slider_2{
+	padding: 50px 0px;
+}
+.sl2_prev {
+	top: 112.5%;
+	right: -85px;
+	writing-mode: horizontal-tb;
+}
+.sl2_next {
+	right: 100px;
+    bottom: -18%;
+	writing-mode: horizontal-tb;
+}
+.sl_shape{
+	margin-top: 20px;
+	height: 60px;
+}
+
+.sl_divider {
+	display: flex;
+	top: 35%;
+	left: 45%;
+}
+.d1, .d3 {
+	margin: 0px;
+    width: 2px;
+    height: 15px;
+}
+.d2 {
+    margin: 0px 10px;
+    width: 2px;
+    height: 20px;
+    background-color: #333333;
+}
+/*slider2 part send*/
+
+/*contact part start*/
+.contact{
+	padding-bottom: 50px;
+}
+.main_form {
+    margin-top: 60px;
+    padding: 0 20px;
+}
+/*contact part end*/
+
+/*footer part start*/
+/*footer top start*/
+.footer_top {
+    padding-bottom: 50px;
+}
+/*footer top end*/
+/*footer bottom start*/
+.footer_bottom{
+	padding: 35px 0;
+}
+.ftb_text{
+	margin-bottom: 25px;
+	text-align: center;
+}
+.ftb_menu ul{
+	text-align: center ;
+}
+.ftb_menu ul li{
+	margin-right: 20px !important;
+}
+/*footer bottom end*/
+/*footer part end*/
+
+
+
+
+
 
  }
 
@@ -146,6 +472,157 @@
 
 /*banner part end*/
 
+/*welcome part start*/
+.top_arrow{
+	height: 45px;
+}
+.wel_text {
+    margin: 30px 0px;
+}
+/*welcome part end*/
+
+/*service part start*/
+.service {
+    padding: 60px 0px;
+}
+.ser_content{
+	margin-top: 50px;
+}
+.mt_0{
+	margin-top: 0px;
+} 
+/*service part end*/
+
+/*about part start*/
+.about_content {
+    padding-left: 30px;
+}
+.about_content p {
+    margin-bottom: 20px !important;
+}
+.about_content h1{
+	margin-bottom: 10px;
+}
+.about_img img{
+	height: 340px;
+}
+/*about part end*/
+
+/*gallery part start*/
+.single_img {
+    margin-top: 25px;
+    width: 330px;    
+}
+.gallery {
+    padding-bottom: 65px;
+    
+}
+.g_mb {
+    margin-bottom: 40px;
+}
+/*gallery part end*/
+
+/*choose part start*/
+.choose{
+	padding-bottom: 65px;
+}
+/*choose part end*/
+
+/*work part start*/
+.work{
+	padding-bottom: 65px;
+}
+.wor_content{
+	width: 170px;
+}
+.wor_text h2{
+	font-size: 13px;
+}
+.wor_text {
+    padding: 10px 0px 10px 10px;
+}
+.wor_text p {
+    font-size: 14px;
+}
+.wor_icon {
+	width: 38px;
+	height: 140px;
+}
+.wor_icon li {
+    padding: 2px 10px;
+}
+.wor_icon li a{
+	font-size: 16px;
+	line-height: 32px;
+}
+.wor_content:hover .wor_icon {
+    top: 8%;
+}
+/*work part end*/
+
+/*price part start*/
+.price{
+	padding-bottom: 65px;
+}
+/*price part end*/
+
+/*template part start*/
+
+/*template part end*/
+
+/*slider2 part start*/
+.slider_2{
+	padding: 65px 0px;
+}
+.sl2_prev {
+	top: 100px;
+	right: -630px;
+}
+
+.sl_shape{
+	height: 643.59px;
+}
+.sl2_next {
+	right: -115px;
+	bottom: 100px;
+}
+.sl_divider {
+	left: 40%;
+}
+/*slider2 part send*/
+
+/*contact part start*/
+.contact{
+	padding-bottom: 65px;
+}
+/*contact part end*/
+
+/*footer part start*/
+/*footer top start*/
+.footer_top {
+    padding-bottom: 65px;
+}
+/*footer top end*/
+/*footer bottom start*/
+.footer_bottom{
+	padding: 35px 0;
+}
+.ftb_text{
+	margin-bottom: 25px;
+	text-align: center;
+}
+.ftb_menu ul{
+	text-align: center ;
+}
+.ftb_menu ul li{
+	margin-right: 20px !important;
+}
+/*footer bottom end*/
+/*footer part end*/
+
+
+
+
  }
 
 /*Large devices (desktops, 992px and up)*/
@@ -159,10 +636,90 @@
 
 /*banner part end*/
 
+/*welcome part start*/
+.wel_head h1{
+	font-size: 29px;
+}
+/*welcome part end*/
+
+/*about part start*/
+.about_img img{
+	height: 398px;
+}
+/*about part end*/
+
+/*gallery part start*/
+.single_img {
+    width: 290px;
+}
+/*gallery part end*/
+
+/*work part start*/
+.wor_content{
+	width: 230px;
+}
+.wor_text h2{
+	font-size: 17px;
+}
+.wor_text {
+    padding: 20px 0px 20px 20px;
+}
+
+/*work part end*/
+
+/*price part start*/
+.pri_btn{
+	width: 150px;
+}
+.amount{
+	font-size: 31px;
+} 
+/*price part end*/
+
+/*slider2 part start*/
+.sl2_prev {
+	right: -890px;
+}
+.sl2_next {
+	right: -98px;
+}
+/*slider2 part end*/
+
+
+
  }
 
 /*Extra large devices (Extra large desktops, 1200px and up)*/
 @media (min-width: 1200px) and (max-width: 1399.98px) {  }
 
 /*Extra large devices (Extra Extra large desktops, 1400px and up)*/
-@media (min-width: 1400px) {  }
+@media (min-width: 1400px) { 
+
+/*about part start*/
+.about_content p {
+    line-height: 30px;
+}
+.last_p {
+    margin: 25px 0px 50px 0px;
+}
+.about_content h1{
+	margin-bottom: 50px;
+}
+/*about part end*/
+
+/*slider2 part start*/
+.sl2_prev {
+	right: -1235px;
+}
+.sl2_next {
+	right: -112px;
+}
+.sl_divider {
+	left: 40%;
+}
+.sl_shape{
+	height: 382px;
+}
+/*slider2 part end*/
+
+ }
