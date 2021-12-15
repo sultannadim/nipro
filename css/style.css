@@ -71,6 +71,7 @@ body{
 	padding: 20px;
 	background-color: #ffffff;
 	box-shadow: 0px 0px 2px 0px rgba(142,142,142,1);
+	
 }
 .c_fremove{
 	font-family: 'Roboto', sans-serif !important;
@@ -323,6 +324,7 @@ body{
 	text-transform: uppercase;
 	border: 1px solid transparent;
 	transition: .4s;
+	cursor: pointer;
 }
 .g_menu li:hover{
 	color: #333333;
